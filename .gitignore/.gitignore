@@ -1,1 +1,1 @@
-#top > div > section > div > section > div.cmp.lineup > div
+const searchUrl = 'https://rotogrinders.com/lineups/mlb?site=draftkings'
